@@ -1,2 +1,2 @@
 # Primer-repositorio
-hola soy ur nuevo repositorio
+hola soy un nuevo repositorio
